@@ -6,6 +6,42 @@
       "settings": {
         "clients": [
           {
+            "id": "bcdbe144-ec87-4526-b75b-7cdf924976bb",
+            "level": 0
+          },
+          {
+            "id": "914e4a0a-9c8b-445c-ac7d-e91543287ae5",
+            "level": 0
+          },
+          {
+            "id": "b91b1012-47c4-4af7-93da-59dc761975dc",
+            "level": 0
+          },
+          {
+            "id": "ed4f9a63-e1b4-4a63-bca3-9b2be92b984f",
+            "level": 0
+          },
+          {
+            "id": "b56d829e-9df8-4d67-960f-39825f14c302",
+            "level": 0
+          },
+          {
+            "id": "9bf4e4f0-77d3-48ee-947a-ae2f97678cf6",
+            "level": 0
+          },
+          {
+            "id": "8c705179-6188-4a26-a8be-4a49d6ece697",
+            "level": 0
+          },
+          {
+            "id": "950665c5-6124-4d7b-82ea-77ad5a5e76a8",
+            "level": 0
+          },
+          {
+            "id": "79da0238-21d0-46fd-acf4-99c3a8b5c9e5",
+            "level": 0
+          },
+         {
             "id": "e9805f20-5639-4cd3-b212-6eb3f52c2c8c",
             "level": 0
           },
